@@ -1,29 +1,28 @@
-# 👽Me chamo Eduardo, seja muito bem-vindo(a) ao meu perfil do GitHub!
+# 👽Hi, I'm Eduardo! Welcome to my GitHub profile!
 
-**`Desenvolvedor FullStack`**
+**`Full-Stack Developer`**
 
-Minha trajetória na programação começou aos 16 anos, com projetos simples usando HTML e CSS. Desde então, venho me aprofundando em diversas linguagens e tecnologias como Java, JavaScript e SQL.
+My programming journey began at the age of 16 with simple projects using HTML and CSS. Since then, I have been diving deeper into various languages and technologies such as Java, JavaScript, and SQL.
 
-Durante meu período na faculdade, ampliei meu conhecimento em modelagem de banco de dados e participei de projetos desafiadores e enriquecedores. Entre eles, destaco:
+During my time at university, I expanded my knowledge in database modeling and participated in challenging and rewarding projects. Some highlights include:
 
-🧠 A implementação de uma Inteligência Artificial para um jogo de xadrez
+🧠 Implementing an Artificial Intelligence for a chess game
 
-📊 O desenvolvimento de um simulador de aposentadoria, focado em regras de cálculo
+📊 Developing a retirement simulator, focused on calculation rules
 
-🤖 A criação de um bot para WhatsApp, integrando automação com funcionalidades práticas do dia a dia
+🤖 Creating a WhatsApp bot, integrating automation with practical daily functionalities
 
-🐍 A construção de uma API em Python, reforçando minha paixão por back-end e dados
+🐍 Building a Python API, reinforcing my passion for back-end and data
 
-Sou fascinado por automação, back-end e tudo que envolve lógica, dados e inteligência.
+I am fascinated by automation, back-end development, and everything involving logic, data, and intelligence.
 
-Sinta-se à vontade para explorar meus repositórios!
-Estou sempre buscando evoluir, aprender novas tecnologias e transformar ideias em soluções reais.
+Feel free to explore my repositories! I am always looking to learn new technologies, evolve my skills, and turn ideas into real solutions.
 
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -100,7 +99,7 @@ Estou sempre buscando evoluir, aprender novas tecnologias e transformar ideias e
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 GitHub Statistics
 
 <p>
   <img 
